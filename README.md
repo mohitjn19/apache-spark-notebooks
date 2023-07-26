@@ -1,2 +1,2 @@
 # apache-spark-notebooks
-This Repository contains notebooks for apache saprk
+This Repository contains notebooks for apache spark
